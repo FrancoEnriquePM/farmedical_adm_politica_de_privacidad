@@ -1,56 +1,76 @@
 Política de Privacidad
 
-Última actualización: 01-09-2025
+Última actualización: 06-10-2025
 
-Esta aplicación de administración de Recursos Humanos (“Farmedical Adm”) respeta y protege la privacidad de sus usuarios.
+Esta aplicación de administración de Recursos Humanos (“Talento Farmedical”) respeta y protege la privacidad de sus usuarios.
 
 Información que recopilamos
 
-La Aplicación accede únicamente a la información relacionada con la gestión de vacaciones de los empleados, la cual proviene
-directamente del sistema de Recursos Humanos de la organización. Esta información incluye:
+La Aplicación accede únicamente a la información relacionada con la gestión de vacaciones de los empleados, la cual proviene directamente del sistema de Recursos Humanos de la organización.
+Esta información incluye:
 
-1.- Nombre y datos básicos de identificación.
-2.- Días de vacaciones disponibles.
-3.- Solicitudes de vacaciones y sus estados.
-4.- Información sobre empleados en vacaciones (para fines de planificación).
+Nombre y datos básicos de identificación.
 
-La Aplicación no recopila información personal adicional del dispositivo (como ubicación, contactos, fotos, archivos, cámara 
-o micrófono).
+Días de vacaciones disponibles.
+
+Solicitudes de vacaciones y sus estados.
+
+Información sobre empleados en vacaciones (para fines de planificación).
+
+La Aplicación no recopila información personal adicional del dispositivo (como ubicación, contactos, fotos, archivos, cámara o micrófono).
 
 Permisos solicitados
 
-La Aplicación requiere únicamente el siguiente permiso:
+La Aplicación requiere los siguientes permisos:
 
-Acceso a Internet (android.permission.INTERNET)
-Usado exclusivamente para conectar con el sistema de Recursos Humanos y sincronizar la información.
+Acceso a Internet (android.permission.INTERNET):
+Usado exclusivamente para conectar con el sistema de Recursos Humanos y sincronizar la información del usuario.
 
-No se solicitan otros permisos.
+Vibración (android.permission.VIBRATE):
+Utilizado para emitir una vibración al recibir notificaciones.
+
+Uso de notificaciones push
+
+La aplicación utiliza notificaciones push a través del servicio Firebase Cloud Messaging (FCM) para enviar avisos importantes relacionados con la gestión de Recursos Humanos.
+Estos pueden incluir, por ejemplo:
+
+Aprobación o rechazo de solicitudes de vacaciones.
+
+Recordatorios o actualizaciones administrativas.
+
+Mensajes internos informativos de la organización.
+
+Las notificaciones no contienen información sensible o confidencial del empleado y solo se envían con fines informativos y laborales.
+
+El usuario puede administrar el permiso de notificaciones desde los ajustes del dispositivo en cualquier momento.
 
 Uso de la información
 
 La información se utiliza únicamente para:
 
-1.- Consultar vacaciones disponibles.
-2.-Enviar y revisar solicitudes de vacaciones.
-3.-Notificar a los encargados de solicitudes (notificaciones locales, no push).
+Consultar vacaciones disponibles.
+
+Enviar y revisar solicitudes de vacaciones.
+
+Recibir notificaciones informativas mediante el sistema de notificaciones push.
 
 Compartición de datos
 
 La Aplicación no comparte información con terceros.
-Toda la información es de uso interno de la organización.
+Toda la información es de uso interno de la organización y se transmite de manera segura entre la aplicación y los servidores de Recursos Humanos.
 
 Seguridad
 
-La Aplicación puede almacenar de manera temporal y local en el dispositivo cierta información básica del usuario (como nombre, cargo
-y datos de vacaciones), únicamente para el correcto funcionamiento.
+La Aplicación puede almacenar de manera temporal y local en el dispositivo cierta información básica del usuario (como nombre, cargo y datos de vacaciones), únicamente para el correcto funcionamiento.
 Estos datos no se comparten con terceros y se actualizan o eliminan automáticamente según el uso de la Aplicación.
-Toda la comunicación con el sistema de Recursos Humanos se realiza de forma segura.
+
+Toda la comunicación con el sistema de Recursos Humanos se realiza de forma cifrada y segura.
 
 Derechos de los usuarios
 
-Los empleados pueden ejercer sus derechos de acceso, rectificación o eliminación de datos a través del área de Recursos Humanos 
-de la organización.
+Los empleados pueden ejercer sus derechos de acceso, rectificación o eliminación de datos a través del área de Recursos Humanos de la organización.
 
 Contacto
 
-Si tiene dudas o inquietudes sobre esta Política de Privacidad, puede comunicarse con: farmedicaldesarrollo@gmail.com
+Si tiene dudas o inquietudes sobre esta Política de Privacidad, puede comunicarse con:
+📧 farmedicaldesarrollo@gmail.com
